@@ -1,0 +1,41 @@
+id,titulo,autor,precio,idEditorial
+1,Ficciones,Jorge Luis Borges,230,3
+2,Rayuela,Julio Cortazar,426,3
+3,Operacion masacre,Rodolfo Walsh,91,6
+4,Los siete Locos,Roberto Arlt,313,1
+5,Quien mato a Rosendo?,Rodolfo Walsh,200,2
+6,Glosa,Juan Jose Saer,199,4
+7,La biblioteca de babel,Jorge Luis Borges,300,3
+8,La trama Celeste,Adolfo Bloy Casares,150,2
+9,El juguete Rabioso,Roberto Arlt,345,4
+10,Bestiario,Julio Cortazar,400,5
+11,El limonero real,Juan Jose Saer,211,1
+12,El sueño de los heroes,Adolfo Bloy Casares,664,6
+13,Blanco Nocturno,Ricardo Piglia,455,6
+14,El Jardin de sandeiros,Jorge Luis Borges,423,2
+15,Respiracion Artificial,Ricardo Piglia,120,3
+16,Un oscuro dia de justicia,Rodolfo Walsh,140,4
+17,El entenado,Juan Jose Saer,230,4
+18,La ciudad ausente,Ricardo Piglia,300,1
+19,Aguafuertes porteñas,Roberto Arlt,120,4
+20,Historias de cronopios y de famas,Julio Cortazar,350,5
+21,El hacedor,Jorge Luis Borges,600,6
+22,El perseguidor,Julio Cortazar,400,3
+23,Dormir al Sol,Adolfo Bloy Casares,300,4
+24,Los oficios terrestres,Rodolfo Walsh,250,2
+25,Las ruinas circulares,Jorge Luis Borges,500,4
+26,El jorobadito,Roberto Arlt,244,5
+27,El libro de los seres imaginarios,Jorge Luis Borges,700,3
+28,Nadie nada nunca,Juan Jose Saer,200,5
+29,Las armas secretas,Julio Cortazar,500,2
+30,el amor brujo,Roberto Arlt,340,1
+31,Funes el memorioso,Jorge Luis Borges,700,1
+32,El inmortal,Jorge Luis Borges,500,6
+33,La noche boca arriba,Julio Cortazar,325,2
+34,Los autonautas,Julio Cortazar,300,4
+35,El camino de ida,Ricardo Piglia,350,4
+36,La sombra de un pajaro,Rodolfo Walsh,250,3
+37,Prision perpetua,Ricardo Piglia,300,2
+38,historia universal de la infamia,Jorge Luis Borges,600,3
+39,Octaedro,Julio Cortazar,700,5
+40,Otras inquisiciones,Jorge Luis Borges,699,1
